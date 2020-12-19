@@ -28,11 +28,11 @@
 ```
   **confirmar cambios**
 ```
-  git commit  **m "MENSAJE" (idealmente cada tarea será un commit)
+  git commit  -m "MENSAJE" (idealmente cada tarea será un commit)
 ```
   **confirmar cambios sobre el último commit**
 ```
-  git commit  **-amend
+  git commit  --amend
 ```
   **ver la lista de commits**
 ```
@@ -46,15 +46,15 @@
 ```
   **subir cambios al repositorio forzando**
 ```
-  git push  **f
+  git push  -f
 ```
   **sincronizar cambios con el repositorio**
 ```
-  git fetch  **-all
+  git fetch  --all
 ```
   **ver todos los espacios de trabajo **
 ```
-  git remote  **v 
+  git remote  -v 
 ```
   **añadir espacios de trabajo remotos**
 ```
@@ -73,9 +73,9 @@
 
    ** descartar cambios en un fichero**
 ```
-    git checkout  **  **[FICHERO]
+    git checkout  --[FICHERO]
 ```
    ** descartar todos los cambios en todos los ficheros**
 ```
-    git reset  **-hard
+    git reset  --hard
 ```
