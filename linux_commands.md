@@ -9,7 +9,7 @@
 ```
   cd [NOMBRE_DIRECTORIO]
 ```
-  **subir un nivel en directorios **
+  **subir un nivel en directorios**
 ```
   cd ..
 ```
@@ -53,7 +53,7 @@
 ```
   scp [FICHERO/DIRECTORIO] usuario@maquina_remote:/path/destino
 ```
-  **descomprimir tar **
+  **descomprimir tar**
 ```
   tar xvf [NOMBRE_TAR]
 ```
