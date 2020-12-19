@@ -1,8 +1,8 @@
 
   **descargar proyecto a local**
-
+```
   git clone [URL]
-
+```
 - ver cambios
 
   git status
